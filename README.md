@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - 🧑‍💻 I’m currently studying **Web and Mobile Development** at AFCI Arras.
-- 🌱 I previously studying **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
+- 🌱 I previously completed a **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
 - 🎯 My goal is to become a full-stack developer with expertise in modern tools and frameworks.
 
 ---
