@@ -19,6 +19,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -29,13 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
   <img src="https://twig.symfony.com/images/twig-logo.svg" alt="Twig" width="40" height="40"/>
-</p>
-
-#### WordPress Ecosystem
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://woocommerce.com/wp-content/uploads/2020/10/woocommerce-logo.png" alt="WooCommerce" width="40" height="40"/>
-  <img src="https://www.advancedcustomfields.com/wp-content/themes/acf-v5/images/acf-icon.png" alt="ACF" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" width="40" height="40"/>
 </p>
 
 #### Tools
@@ -44,8 +39,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="Notion" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Bash-Logo.png" alt="Git Bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/>
 </p>
 
 #### Databases
