@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - 🧑‍💻 I’m currently studying **Web and Mobile Development** at AFCI Arras.
-- 🌱 I previously completed a **WordPress Development** training, where I mastered themes, plugins, and custom development.
+- 🌱 I previously studying a **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
 - 🎯 My goal is to become a full-stack developer with expertise in modern tools and frameworks.
 
 ---
@@ -28,19 +28,19 @@
 #### Frameworks and Libraries
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
-  <img src="https://twig.symfony.com/images/twig-logo.svg" alt="Twig" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/WordPress/gutenberg/master/resources/images/gutenberg-mark.svg" alt="Gutenberg" width="40" height="40"/>
 </p>
 
 #### Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Bash-Logo.png" alt="Git Bash" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 #### Databases
@@ -48,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MariaDB-Logo.png" alt="MariaDB" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ---
