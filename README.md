@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - 🧑‍💻 I’m currently studying **Web and Mobile Development** at AFCI Arras.
-- 🌱 I previously completed a **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
+- 🌱 I previously studying **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
 - 🎯 My goal is to become a full-stack developer with expertise in modern tools and frameworks.
 
 ---
@@ -35,7 +35,7 @@
 #### Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Visual_Studio_2019_logo.svg/800px-Visual_Studio_2019_logo.svg.png" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Visual_Studio_2019_logo.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
