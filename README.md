@@ -35,12 +35,13 @@
 #### Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Visual-Studio-icon-1.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://dbeaver.io/wp-content/uploads/2020/03/dbeaver-head.png" alt="DBeaver" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dbeaver/dbeaver-icon.svg" alt="DBeaver" width="40" height="40"/>
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="WordPress" width="40" height="40"/>
 </p>
 
 #### Databases
