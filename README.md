@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - 🧑‍💻 I’m currently studying **Web and Mobile Development** at AFCI Arras.
-- 🌱 I’m learning and working on projects using **React**, **Symfony**, **Docker**, and **C#**.
+- 🌱 I previously completed a **WordPress Development** training, where I mastered themes, plugins, and custom development.
 - 🎯 My goal is to become a full-stack developer with expertise in modern tools and frameworks.
 
 ---
@@ -44,6 +44,22 @@
   </a>
   <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Twig-logo.svg" alt="twig" width="40" height="40"/> 
+  </a>
+</p>
+
+#### WordPress Ecosystem
+<p align="left">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+  </a>
+  <a href="https://elementor.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://uploads-ssl.webflow.com/5eeac2e8f420b564f73144f1/5f6d639c7c81935eec5b233a_elementor-logo-icon-black.png" alt="elementor" width="40" height="40"/> 
+  </a>
+  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.png" alt="woocommerce" width="40" height="40"/> 
+  </a>
+  <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.advancedcustomfields.com/wp-content/themes/acf-v5/images/acf-icon.png" alt="advanced custom fields" width="40" height="40"/> 
   </a>
 </p>
 
