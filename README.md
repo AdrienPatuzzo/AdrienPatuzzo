@@ -38,19 +38,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Bash-Logo.png" alt="Git Bash" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dbeaver/dbeaver-icon.svg" alt="DBeaver" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Looping-Logo.svg" alt="Looping" width="40" height="40"/>
 </p>
 
 #### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MariaDB-Logo.png" alt="MariaDB" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
