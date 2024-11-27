@@ -35,7 +35,7 @@
 #### Tools and IDEs
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_2019_logo.svg/1200px-Visual_Studio_2019_logo.svg.png" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_2019_logo.svg/1200px-Visual_Studio_2019_logo.svg." alt="Visual Studio" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
