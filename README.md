@@ -41,6 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="DBeaver" width="50" height="50"/>
 </p>
 
 #### Databases
