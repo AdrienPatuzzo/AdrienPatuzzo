@@ -8,9 +8,10 @@
 ---
 
 ### 💼 About Me
-- 🧑‍💻 I’m currently studying **Conception Development App** at AFCI Arras.
-- 🌱 I previously studying **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
-- 🎯 My goal is to become a full-stack developer with expertise in modern tools and frameworks.
+-  I actualy studiying ""Conception Development App" at ENI.
+-  I previously studying **Web, Mobil Development ** at AFCI Arras.
+-  I previously studying **WordPress Development** training remotely with **OpenClassrooms**, mastering themes, plugins, and customizations.
+-  My goal is to become a full-stack developer with expertise in modern tools and frameworks.
 
 ---
 
